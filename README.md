@@ -44,5 +44,6 @@ boton_salir.pack(pady=10, ipady=10)
 # Iniciar el bucle principal de la aplicación
 ventana.mainloop()
 ```
-##Muestra del codigo
-https://github.com/DannyCrisostomo/Detector-de-rostro/blob/d00774c8ed6152b069790109fb9255324bca5e84/Detector%20de%20rostro.png
+## Salida del codigo
+![php](https://github.com/DannyCrisostomo/Detector-de-rostro/blob/d00774c8ed6152b069790109fb9255324bca5e84/Detector%20de%20rostro.png)
+
